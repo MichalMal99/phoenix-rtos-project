@@ -5,7 +5,7 @@
 # Copyright 2021 Phoenix Systems
 # Author: Lukasz Kosinski
 #
-
+#change2
 exec qemu-system-i386 \
 	-smp 1 \
 	-serial stdio \
